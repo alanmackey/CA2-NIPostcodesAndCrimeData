@@ -1,0 +1,1001 @@
+Month,Longitude,Latitude,Location,Crime.type,postcode
+2017-09,-6.639251,54.340217,Ashley Avenue,Anti-social behaviour,BT97BT
+2017-11,-6.693519,54.447531,The Square,Anti-social behaviour,BT717SG
+2017-05,-5.904922,54.210846,Tullybrannigan Rise,Bicycle theft,BT330SR
+2015-05,-5.936644,54.59192,Sandy Row,Criminal damage and arson,BT125EU
+2016-08,-5.668496,54.631995,Breezemount Rise,Anti-social behaviour,BT237TY
+2015-09,-5.720941,54.318821,Cathedral Park,Violence and sexual offences,BT306GF
+2017-04,-5.609922,54.262827,Downpatrick Road,Anti-social behaviour,BT307LZ
+2016-07,-6.018001,54.574035,Carrigart Avenue,Anti-social behaviour,BT119HU
+2015-12,-6.269966,54.859136,Moat Road,Violence and sexual offences,BT424AA
+2015-09,-5.958575,54.597045,Hawthorn Street,Criminal damage and arson,BT127AQ
+2016-02,-6.710419,55.100875,Ramsey Park,Anti-social behaviour,BT514NF
+2016-11,-6.592141,54.838765,Mayogall Road,Other theft,BT448NN
+2015-07,-5.923546,54.551946,Castledillon Road,Shoplifting,BT87BH
+2015-09,-6.331962,55.024993,Kilmandil Road,Anti-social behaviour,BT449BH
+2015-09,-5.950246,54.618378,Wyndham Drive,Violence and sexual offences,BT146AF
+2015-08,-7.48742,54.453383,Woodview Crescent,Anti-social behaviour,BT281LF
+2015-08,-7.313488,54.613134,Clonmore Gardens,Criminal damage and arson,BT797XB
+2016-05,-5.653896,54.399217,The Old Mill,Anti-social behaviour,BT309GZ
+2015-10,-5.929999,54.551185,Downhill Walk,Anti-social behaviour,BT87ED
+2017-05,-5.945343,54.598007,Albert Street,Vehicle crime,BT666JG
+2016-07,-5.828565,54.460164,Station Mews,Vehicle crime,BT247LN
+2017-02,-5.919676,54.654902,Longwood Road,Shoplifting,BT379UH
+2015-03,-6.941795,55.040395,Glenview Drive,Violence and sexual offences,BT490RZ
+2016-03,-7.476167,54.821654,Lisnafin Park,Criminal damage and arson,BT829DJ
+2016-12,-6.276779,54.335889,Bannview Mews,Other theft,BT323PZ
+2017-10,-5.945327,54.587557,Fortuna Street,Anti-social behaviour,BT125PL
+2015-09,-7.312768,54.61269,Meelmore Drive,Criminal damage and arson,BT797XL
+2015-10,-5.928441,54.636148,Fairhill Park,Criminal damage and arson,BT154FY
+2017-10,-6.148451,54.414627,Market Square,Anti-social behaviour,BT281AG
+2015-04,-5.993002,54.587369,Monagh Road,Violence and sexual offences,BT118EF
+2015-06,-5.922012,54.628877,Oakmount Drive,Shoplifting,BT153RE
+2017-09,-5.92641,54.601179,Hill Street,Violence and sexual offences,BT12LB
+2015-04,-7.476743,54.807257,Ashbrook,Criminal damage and arson,BT829TQ
+2015-10,-5.927755,54.613692,Glenrosa Street,Anti-social behaviour,BT152JB
+2017-11,-6.340161,54.452796,Marlborough Park,Anti-social behaviour,BT96HJ
+2015-09,-6.018248,54.525915,Tullynacross Road,Anti-social behaviour,BT356RD
+2016-06,-5.819484,54.851466,Main Street,Other theft,BT936HW
+2016-12,-7.585918,54.708139,Strabane Road,Vehicle crime,BT817HZ
+2015-04,-6.045871,54.513229,Bachelors Walk,Anti-social behaviour,BT281XN
+2016-01,-6.217663,54.710525,Riverside,Criminal damage and arson,BT746BR
+2016-01,-5.83828,54.851757,Hampton Crescent,Anti-social behaviour,BT402BW
+2017-01,-5.941492,54.659264,Bellevue Park,Anti-social behaviour,BT367QD
+2015-07,-6.415712,55.149492,Moycraig Road,Other theft,BT538QZ
+2017-10,-6.337713,54.172609,St. Colmans Park,Criminal damage and arson,BT342BX
+2017-08,-5.924849,54.597496,Seymour Street,Violence and sexual offences,BT536JR
+2015-05,-6.460252,54.406527,Brook Close,Anti-social behaviour,BT131ER
+2015-08,-7.299331,54.997347,Heron Way,Violence and sexual offences,BT476LE
+2016-09,-5.998811,54.574294,Tullymore Gardens,Violence and sexual offences,BT118ND
+2015-09,-5.682499,54.589493,Stanfield Drive,Anti-social behaviour,BT238NG
+2016-06,-5.9485,54.617387,Oldpark Avenue,Other theft,BT146HJ
+2015-06,-5.902603,54.672559,Cambrai Park,Anti-social behaviour,BT667PS
+2016-06,-6.022905,54.569524,Colinbrook Crescent,Violence and sexual offences,BT170PF
+2016-05,-5.841071,54.854296,Fairway,Public order,BT623FR
+2017-03,-7.012395,55.042722,Tamlough Park,Anti-social behaviour,BT499NS
+2015-04,-5.988561,54.588014,Norglen Drive,Anti-social behaviour,BT118DH
+2017-08,-5.919676,54.654902,Longwood Road,Anti-social behaviour,BT379UH
+2016-01,-5.926364,54.599049,Telfair Street,Shoplifting,BT14DY
+2015-07,-7.352742,55.015492,Rosskeen Park,Drugs,BT480RH
+2016-07,-5.940689,54.624578,Vancouver Drive,Robbery,BT155BY
+2015-09,-5.8259,54.589702,Kinross Avenue,Violence and sexual offences,BT57GE
+2016-02,-7.629991,54.34825,Mill Street,Burglary,BT124AA
+2016-08,-5.973182,54.598944,West Circular Road,Drugs,BT133QA
+2015-12,-7.307712,54.997916,Iona Terrace,Anti-social behaviour,BT476EY
+2016-07,-6.222523,54.733138,Arran Street,Vehicle crime,BT412TB
+2016-06,-5.811999,54.716394,Thomas Street,Shoplifting,BT701HN
+2015-01,-5.922125,54.602355,Donegall Quay,Anti-social behaviour,BT13NJ
+2017-10,-5.953894,54.57932,Great Northern Street,Anti-social behaviour,BT97FN
+2015-04,-5.978141,54.580374,Blackstaff Road,Other theft,BT119DT
+2016-07,-5.919964,54.5722,Haypark Gardens,Burglary,BT73FL
+2017-03,-5.91472,54.673595,Lacken Gardens,Anti-social behaviour,BT366BJ
+2015-11,-5.931675,54.579157,Colenso Parade,Violence and sexual offences,BT95BB
+2016-10,-7.322053,54.999964,Strand Road,Anti-social behaviour,BT487AD
+2015-07,-5.888182,54.214732,Railway Street,Violence and sexual offences,BT617HP
+2016-02,-6.218643,54.723917,Parklands,Burglary,BT414NH
+2015-07,-5.953413,54.966168,Castle Street,Criminal damage and arson,BT344BH
+2016-11,-6.399676,54.197151,Brookville Crescent,Violence and sexual offences,BT357BD
+2016-06,-5.913049,54.577094,Ravenhill Road,Anti-social behaviour,BT68EF
+2017-12,-6.276331,54.855579,Toome Road,Violence and sexual offences,BT422BT
+2016-06,-6.723065,54.47152,Redford Park,Violence and sexual offences,BT716PY
+2015-02,-6.339708,54.467794,Lough Road,Anti-social behaviour,BT413DP
+2016-10,-5.71278,54.592774,Brooklands Road,Shoplifting,BT162PD
+2016-03,-5.940995,54.580206,Malone Avenue,Vehicle crime,BT96EP
+2016-09,-6.666528,55.128429,Beresford Avenue,Criminal damage and arson,BT521HJ
+2017-04,-6.043742,54.512557,Railway Street,Drugs,BT617HP
+2016-05,-6.025223,54.560289,Laurelbank,Criminal damage and arson,BT170RT
+2016-11,-6.350511,54.184268,Orior Road,Burglary,BT356EL
+2017-07,-6.757554,54.502083,Killymerron Park,Criminal damage and arson,BT716DN
+2017-04,-5.923358,54.600947,Queens Square,Anti-social behaviour,BT13FF
+2016-05,-7.334027,54.991209,Deanery Street,Violence and sexual offences,BT489HR
+2016-06,-5.926854,54.29931,Clonvaraghan Road,Anti-social behaviour,BT319JX
+2016-12,-5.865014,54.58348,Knock Green,Other theft,BT56GJ
+2017-02,-7.468348,54.812951,Laurel Drive,Violence and sexual offences,BT829PW
+2017-09,-5.937646,54.597813,Killen Street,Criminal damage and arson,
+2017-06,-6.001447,54.752129,The Square,Violence and sexual offences,BT717SG
+2015-05,-6.500783,55.071973,Greenville Avenue,Other theft,BT537BJ
+2016-08,-6.344649,54.17416,Peters Place,Anti-social behaviour,BT358EE
+2015-04,-5.927189,54.668949,Doonbeg Drive,Anti-social behaviour,BT379HU
+2015-04,-7.328882,55.002715,Nicholson Square,Anti-social behaviour,BT487LN
+2015-09,-6.166811,54.237777,Ulster Avenue,Anti-social behaviour,BT344TX
+2015-03,-6.422978,54.42184,Ulsterville Park,Violence and sexual offences,BT635EY
+2015-09,-7.331317,55.018888,Balliniska Road,Vehicle crime,BT480LY
+2015-12,,,No Location,Other crime,
+2016-12,-7.314723,55.013783,Farren Park,Violence and sexual offences,BT487QH
+2017-09,-6.018398,54.370584,Rathfriland Road,Criminal damage and arson,BT341LD
+2015-05,-7.300129,54.983823,Lisnavar Court,Anti-social behaviour,BT472NE
+2015-06,-6.359395,54.141334,Carn View,Criminal damage and arson,BT358LJ
+2016-04,-6.349365,54.424073,Markville,Anti-social behaviour,BT635SZ
+2016-07,-5.863882,54.598897,Campbell Park Avenue,Violence and sexual offences,BT43FL
+2016-03,-6.002211,54.752689,Doagh Road,Violence and sexual offences,BT399BG
+2015-09,-5.945522,54.577246,Windsor Close,Other theft,BT96FG
+2015-06,-5.973182,54.598944,West Circular Road,Criminal damage and arson,BT133QA
+2015-04,-5.699824,54.596697,Mark Street,Anti-social behaviour,BT234DT
+2015-08,-7.348479,54.989212,High Park,Anti-social behaviour,BT489SW
+2017-08,-5.899112,54.21114,Spelga Avenue,Criminal damage and arson,BT330DR
+2017-11,-5.932058,54.580143,Colenso Parade,Bicycle theft,BT95BB
+2016-06,-6.462839,54.425041,Ballybay Avenue,Anti-social behaviour,BT624BA
+2016-04,-6.262681,54.465893,Glencroft,Anti-social behaviour,BT670GL
+2016-03,-5.983643,54.595812,Glenalina Road,Criminal damage and arson,BT127JG
+2015-02,-6.519001,55.065755,West Gate,Anti-social behaviour,BT536LD
+2016-10,-6.770283,54.504352,Irish Street,Violence and sexual offences,BT701DB
+2015-09,-5.896981,54.600456,Dee Street,Anti-social behaviour,BT41FT
+2017-12,-5.712967,54.328456,Croft Close,Anti-social behaviour,BT282AZ
+2017-08,-6.502095,54.878285,Kilrea Road,Violence and sexual offences,BT448JB
+2017-06,-6.276755,54.863527,Bridge Street,Violence and sexual offences,BT281XZ
+2016-08,-6.802107,54.487198,Derryveen Crescent,Anti-social behaviour,BT701NS
+2017-11,-6.277105,54.858258,Queen Street,Violence and sexual offences,BT151ES
+2015-07,-6.442288,54.41927,Tavanagh Avenue,Anti-social behaviour,BT623AJ
+2015-10,-5.696529,54.59668,Marquis Street,Criminal damage and arson,BT234DX
+2015-05,-6.33365,54.453264,Glenfield Road,Burglary,BT668ER
+2016-11,-5.83955,54.850711,Linn Road,Anti-social behaviour,BT402AH
+2017-06,-5.998258,54.750971,Main Street,Anti-social behaviour,BT936HW
+2016-08,-5.957168,54.617112,Jamaica Road,Criminal damage and arson,BT147QW
+2017-12,-6.274047,54.866408,Ballymoney Street,Anti-social behaviour,BT436AN
+2015-08,-6.017379,54.571554,Suffolk Road,Anti-social behaviour,BT119PL
+2017-12,-6.673976,54.347189,Mullacreevie Park,Anti-social behaviour,BT604BA
+2017-02,-6.699444,54.249708,Fairgreen Park,Violence and sexual offences,BT603UR
+2016-10,-5.935589,54.606961,Clifton Street,Anti-social behaviour,BT131AA
+2017-06,-6.3359,54.468496,Victoria Street,Anti-social behaviour,BT27AG
+2016-08,-7.341172,54.987071,Old City Court,Anti-social behaviour,BT489UJ
+2017-06,-6.335043,54.171593,Courtney Hill,Anti-social behaviour,BT342EA
+2016-02,-6.339799,54.173671,Mill Street,Anti-social behaviour,BT124AA
+2017-03,-6.721938,54.605494,O'Neill Park,Violence and sexual offences,BT808UE
+2017-08,-5.95204,54.66708,Moreland Avenue,Anti-social behaviour,BT367RQ
+2017-07,-6.463366,54.433187,Dungannon Road,Violence and sexual offences,BT714HP
+2015-06,-6.350493,54.801618,Whitesides Road,Violence and sexual offences,BT413EX
+2016-01,-5.679212,54.627133,Tower Road,Violence and sexual offences,BT237PN
+2016-05,-5.93543,54.595116,Glengall Street,Other theft,BT125AB
+2016-03,-5.99443,54.574059,Slieveban Drive,Anti-social behaviour,BT118HF
+2017-03,-5.997472,54.530631,Sandyhill Avenue,Other theft,BT179LT
+2015-03,-5.938026,54.615691,Allworthy Avenue,Anti-social behaviour,BT146BU
+2015-11,-6.265577,55.199679,Whitehall Court,Anti-social behaviour,
+2015-11,-7.019875,55.044534,Walworth Road,Anti-social behaviour,BT499JU
+2016-12,-6.272271,54.858046,Larne Road,Other theft,BT423AX
+2017-08,-5.979732,54.564785,Richmond Park,Other theft,BT797SJ
+2015-05,-5.89475,54.5918,Heatherbell Street,Anti-social behaviour,BT54SP
+2016-06,-5.939717,54.617463,Brookvale Avenue,Criminal damage and arson,BT146BW
+2015-12,-5.90132,54.594628,Chatsworth Street,Other theft,BT54QL
+2017-03,-5.709039,54.752634,Marine Lane,Anti-social behaviour,BT389QR
+2015-08,-5.886469,54.59038,Abetta Parade,Violence and sexual offences,BT55LA
+2015-09,-6.670105,54.691486,High Street,Anti-social behaviour,BT248AB
+2016-08,-7.629053,54.348157,Irvinestown Road,Anti-social behaviour,BT746DN
+2015-05,-6.09326,54.334817,Kinallen Road,Other theft,BT252NW
+2016-10,-6.287041,54.866691,Dicksons Hill,Burglary,BT435NZ
+2016-12,-7.655492,54.345774,Windmill Road,Violence and sexual offences,BT344LP
+2016-10,-7.310418,54.598833,Great Northern Road,Anti-social behaviour,
+2017-12,-5.938663,54.60403,Shankill Terrace,Criminal damage and arson,BT131EN
+2015-05,-5.920338,54.607976,Pilot Street,Vehicle crime,BT13EZ
+2016-10,-5.858078,54.840185,Glebe Court,Criminal damage and arson,BT703PU
+2016-02,-6.325805,54.459983,Lime Grove,Anti-social behaviour,BT668HL
+2015-04,-6.08305,54.462916,Main Street,Violence and sexual offences,BT936HW
+2017-06,-5.947415,54.588806,Donegall Road,Other theft,BT126HN
+2017-04,-7.307239,55.033485,Cornshell Fields,Anti-social behaviour,BT487UH
+2017-08,-5.938649,54.621452,Willowbank Gardens,Other theft,BT155AH
+2016-07,-5.959133,54.668754,Farmley Crescent,Anti-social behaviour,BT367TX
+2016-11,-6.029736,54.518951,Lawnmount Crescent,Public order,BT274TU
+2017-09,-5.904425,54.59443,The Mount,Drugs,BT54NA
+2016-08,-5.98956,54.575587,Bearnagh Drive,Anti-social behaviour,BT118HT
+2015-08,-5.929013,54.651396,Mulderg Drive,Anti-social behaviour,BT367JY
+2016-08,-5.978522,54.617327,Forthriver Green,Criminal damage and arson,BT133UR
+2016-06,-5.992397,54.626704,Thornberry Road,Criminal damage and arson,BT148ED
+2016-04,-5.905436,54.584375,Chesham Park,Burglary,BT68GS
+2017-08,-7.284529,54.667782,Tircur Road,Violence and sexual offences,BT797TY
+2017-04,-5.82757,54.728499,Mourneview Park,Anti-social behaviour,BT344NB
+2015-04,-6.526258,55.080405,Beechcroft,Other theft,BT536NF
+2016-10,-5.927574,54.590166,Donegall Pass,Anti-social behaviour,BT71DQ
+2017-12,-5.969652,54.590583,Beechview Park,Anti-social behaviour,BT127PY
+2016-09,-5.961105,54.577087,Wildflower Way,Anti-social behaviour,BT126TA
+2016-03,-5.948932,54.636182,Upper Cavehill Road,Anti-social behaviour,BT155EZ
+2015-06,-5.96618,54.594729,Mica Street,Anti-social behaviour,BT127BQ
+2017-02,-5.947177,54.593528,Burnaby Court,Vehicle crime,BT125QU
+2017-02,-5.944203,54.588679,Donegall Road,Other theft,BT126HN
+2016-08,-5.664276,54.663444,Holborn Avenue,Anti-social behaviour,BT205EH
+2017-02,-5.925144,54.610853,Bentinck Street,Anti-social behaviour,BT151LZ
+2017-07,-5.887647,54.596915,Ravenscroft Street,Drugs,BT55BE
+2017-06,-6.587014,54.225514,Ninemile Road,Anti-social behaviour,BT350HN
+2016-10,-6.339528,54.450919,Glenbrook Cottages,Anti-social behaviour,BT668QT
+2016-09,-5.827397,54.588318,Kinross Avenue,Criminal damage and arson,BT57GE
+2017-08,-6.185575,54.711549,Donore Crescent,Anti-social behaviour,BT411JA
+2015-04,-5.95269,54.672958,Glebecoole Avenue,Vehicle crime,BT366JA
+2017-10,-5.708567,54.648476,Viceroy'S Wood,Anti-social behaviour,BT191WF
+2016-03,-5.972738,54.62219,Faburn Park,Criminal damage and arson,BT148AJ
+2017-04,-6.448511,54.432341,Churchill Park,Violence and sexual offences,BT621EX
+2015-11,-5.967107,54.628915,Ballysillan Park,Anti-social behaviour,BT148HD
+2017-11,-5.675592,54.660714,Bryansburn Road,Other theft,BT203SD
+2016-09,-5.954585,54.576016,Lisburn Road,Anti-social behaviour,BT97GY
+2015-11,-5.923546,54.551946,Castledillon Road,Other theft,BT87BH
+2015-06,-6.380637,54.448458,Enniskeen,Anti-social behaviour,BT654AE
+2016-01,-5.531432,54.641488,Railway Street,Anti-social behaviour,BT617HP
+2015-05,-5.692539,54.594177,East Street,Burglary,BT237DD
+2016-05,-5.924715,54.585229,The Cloisters,Anti-social behaviour,BT578PA
+2015-04,-6.288821,54.879842,Pineridge Road,Anti-social behaviour,BT436TH
+2015-10,-6.005727,54.543832,Larch Hill,Anti-social behaviour,BT180JN
+2017-02,-6.277404,54.859269,Queen Street,Violence and sexual offences,BT151ES
+2016-10,-5.936357,54.599121,Hamill Street,Anti-social behaviour,BT124AA
+2016-07,-5.928221,54.608794,Earl Close,Shoplifting,BT365FF
+2016-12,-6.271275,54.349054,Downshire Place,Anti-social behaviour,BT27JQ
+2016-03,-6.436846,54.902743,Skerdan Road,Burglary,BT448EY
+2015-02,-6.540916,54.945218,Moneygran Lane,Drugs,BT515SD
+2016-08,-6.38485,54.467148,Kilvergan Road,Anti-social behaviour,BT666LF
+2017-03,-5.918387,54.577357,Deramore Street,Drugs,BT73FS
+2017-07,-5.867175,54.585342,Clarawood Drive,Criminal damage and arson,BT56FY
+2017-11,-5.941303,54.61519,Cliftonville Road,Anti-social behaviour,BT146JN
+2017-03,-5.978668,54.629054,Bleach Green,Other theft,BT412GZ
+2017-01,-6.257852,54.105817,Essmore,Violence and sexual offences,BT343PE
+2017-03,-5.99865,54.581353,Airfield Heights,Burglary,BT118QU
+2017-03,-6.029035,54.560432,Glenwood Court,Criminal damage and arson,BT283UD
+2017-03,-5.665215,54.633845,Ardvanagh Meadows,Violence and sexual offences,BT237XL
+2017-07,-7.664019,54.33164,Drumawill Park,Anti-social behaviour,BT745JR
+2016-02,-6.058127,54.510084,Tonagh Drive,Violence and sexual offences,BT281DY
+2017-11,-5.925568,54.590059,Coyles Place,Drugs,BT71EL
+2016-11,-5.695707,54.654764,Lyndhurst Crescent,Shoplifting,BT133XF
+2017-10,-6.006369,54.063166,Mountain Road,Anti-social behaviour,BT234UL
+2015-04,-7.321576,54.997635,William Street,Bicycle theft,BT486EP
+2017-03,-5.903215,54.40793,Willow Park,Violence and sexual offences,BT248PJ
+2017-05,-6.280561,54.865971,Cullybackey Road,Violence and sexual offences,BT435DG
+2015-09,-5.902077,54.54348,Ballylenaghan Park,Violence and sexual offences,BT86WP
+2017-03,-6.349592,54.183878,Iveagh Crescent,Anti-social behaviour,BT126AW
+2017-01,-7.4744,54.785283,Sion Terrace,Anti-social behaviour,BT829HB
+2015-01,-5.666169,54.595019,Heron Lodge,Anti-social behaviour,BT238WQ
+2015-12,-6.392021,54.19146,Derrymore Meadows,Burglary,BT357GA
+2016-01,-6.192257,54.509883,Willow Lodge,Violence and sexual offences,BT282WL
+2017-02,-5.816618,54.721689,Sandes Court,Anti-social behaviour,BT388LE
+2017-10,-5.925996,54.617237,Gainsborough Drive,Criminal damage and arson,BT153EL
+2016-04,-6.274141,54.860561,Waring Street,Anti-social behaviour,BT424BU
+2016-06,-5.9374,54.615213,Eia Street,Violence and sexual offences,BT146BT
+2015-04,-5.702267,54.597004,William Street Court,Violence and sexual offences,BT234DW
+2016-09,-6.026469,54.55977,Glenwood View,Anti-social behaviour,BT170QY
+2015-05,-6.753721,54.49262,Ballynorthland Park,Shoplifting,BT716DY
+2016-04,-6.745148,54.646838,Burn Road,Shoplifting,BT97GY
+2017-03,-5.926404,54.583029,Palestine Street,Criminal damage and arson,BT71QJ
+2015-10,-7.318121,54.993133,Bridge Street,Drugs,BT281XZ
+2016-12,-5.661315,54.652128,Bloomfield Place,Anti-social behaviour,BT204UT
+2017-12,-5.893638,54.222905,Burrenview Way,Anti-social behaviour,BT330JQ
+2017-02,-6.744976,54.645884,Central Avenue,Violence and sexual offences,BT203AF
+2017-10,-6.277404,54.859269,Queen Street,Anti-social behaviour,BT151ES
+2015-05,-5.863979,54.602079,Laurelvale,Anti-social behaviour,BT294WN
+2017-03,-5.935929,54.610633,Kinnaird Street,Anti-social behaviour,BT146BE
+2016-08,-6.358091,54.373079,Castleview,Other theft,BT701TT
+2016-03,-7.651615,54.345996,Windmill Heights,Violence and sexual offences,BT747LN
+2016-08,-6.231511,54.481578,Woodhall,Anti-social behaviour,BT670NG
+2015-06,-6.353689,55.042771,Ballyportery Road,Other theft,BT449BN
+2017-10,-6.254118,55.199165,Glentaise Drive,Violence and sexual offences,
+2016-09,-5.92965,54.571809,Lockside Court,Anti-social behaviour,BT95GQ
+2015-09,-5.877782,54.592303,North Road,Other theft,BT237AS
+2016-04,-5.933747,54.589552,Donegall Pass,Anti-social behaviour,BT71DQ
+2015-11,-7.645319,54.296874,The Commons,Other crime,BT922BD
+2017-11,-5.837784,54.636961,Craigtara,Other theft,BT189EE
+2017-11,-5.923685,54.620055,York Road,Public order,BT153GU
+2015-12,-5.935936,54.610192,Antrim Road,Burglary,BT152AH
+2017-03,-6.381363,54.447237,Enniskeen,Violence and sexual offences,BT654AE
+2015-02,-7.632502,54.296036,Lake View Rise,Other crime,BT922BF
+2015-12,-6.043225,54.555954,Lagmore View,Criminal damage and arson,BT170FR
+2016-03,-5.930154,54.597254,Donegall Square North,Violence and sexual offences,BT15GB
+2015-10,-5.980154,54.672791,Mallusk Drive,Criminal damage and arson,BT364GN
+2016-10,-5.66799,54.663003,Main Street,Violence and sexual offences,BT936HW
+2016-06,-6.334754,54.46937,Woodville Street,Possession of weapons,BT679DQ
+2017-04,-6.375656,54.416155,Bleary Road,Violence and sexual offences,BT635NE
+2017-07,-6.596992,54.689853,Scotts Road,Anti-social behaviour,BT457TW
+2015-01,-5.715389,54.312516,Bishops Brae Avenue,Anti-social behaviour,BT306TG
+2015-07,-5.913227,54.603864,Queens Road,Anti-social behaviour,BT39FB
+2017-03,-6.26387,54.860378,Barra Drive,Other crime,BT424AH
+2016-03,-6.757095,54.510613,Oakview,Vehicle crime,BT602FN
+2017-01,-7.125302,54.859104,Carnanreagh Road,Other theft,BT474AU
+2015-09,-5.928174,54.605765,Lancaster Street,Theft from the person,BT151EZ
+2015-11,-6.946879,55.04635,Benevenagh Drive,Anti-social behaviour,BT490AQ
+2017-03,-7.31798,54.995944,Foyle Street,Violence and sexual offences,BT486XY
+2016-08,-5.92717,54.65716,Longlands Avenue,Shoplifting,BT367FD
+2017-06,-5.976421,54.562339,Priory Gardens,Other theft,BT403ET
+2016-03,-6.653563,54.347367,Scotch Street,Violence and sexual offences,BT306AN
+2017-04,-6.413625,54.352052,Sinton Park,Criminal damage and arson,BT622BU
+2015-11,-6.199761,54.719164,Queens Road,Anti-social behaviour,BT39FB
+2017-03,-5.95757,54.608781,Ghent Place,Violence and sexual offences,BT133JW
+2017-11,-5.909504,54.67585,Princes Park,Anti-social behaviour,BT370BD
+2015-06,-6.015949,54.747812,Huntingdale Lodge,Anti-social behaviour,BT623RY
+2017-11,-6.449596,54.431762,Churchill Park,Criminal damage and arson,BT621EX
+2015-02,-5.92335,54.646366,Graymount Drive,Criminal damage and arson,BT367DS
+2016-10,-5.984893,54.596498,New Barnsley Gardens,Anti-social behaviour,BT127HP
+2017-04,-6.195064,54.718007,Rathkyle,Anti-social behaviour,BT411LW
+2015-03,-5.90499,54.599705,Susan Street,Anti-social behaviour,BT54FE
+2017-10,-6.698534,54.731637,Tirgan Road,Anti-social behaviour,BT457RX
+2015-04,-6.336355,54.465277,William Street,Violence and sexual offences,BT486EP
+2016-03,-5.925568,54.590059,Coyles Place,Anti-social behaviour,BT71EL
+2017-01,-5.715611,54.322926,Thomas Russell Park,Violence and sexual offences,BT306NH
+2017-12,-5.952709,54.672572,Glebecoole Avenue,Criminal damage and arson,BT366JA
+2017-10,-5.9232,54.580647,Elgin Street,Violence and sexual offences,BT73AG
+2017-05,-5.907094,54.600308,Wolff Close,Criminal damage and arson,BT41BE
+2016-12,-5.811263,54.731476,Fulmar Avenue,Anti-social behaviour,BT283HS
+2017-06,-5.979746,54.582944,Glen Parade,Anti-social behaviour,BT118DP
+2015-08,-5.892538,54.593595,Bloomfield Parade,Anti-social behaviour,BT55AS
+2017-12,-5.563999,54.534966,Cuan Gardens,Anti-social behaviour,BT222QG
+2015-04,-5.929328,54.598579,Castle Lane,Shoplifting,BT679GE
+2015-10,-5.966337,54.602459,Springfield Road,Criminal damage and arson,BT205BZ
+2017-01,-7.45651,54.381119,Glenview Park,Burglary,BT370TG
+2017-06,-5.897424,54.594866,Haig Street,Possession of weapons,BT54QX
+2017-01,-7.308003,54.612537,Meelmore Drive,Criminal damage and arson,BT797XL
+2016-02,-5.744017,54.548352,Park Way,Anti-social behaviour,BT235AR
+2017-03,-5.923939,54.58376,Agincourt Avenue,Anti-social behaviour,BT71QD
+2016-07,-5.879989,54.607895,Larkfield Drive,Theft from the person,BT41QS
+2016-09,-5.979746,54.582944,Glen Parade,Violence and sexual offences,BT118DP
+2017-03,-5.940372,54.5852,Elmwood Avenue,Drugs,BT96AZ
+2016-03,-5.690415,54.337749,Ardenlee Gardens,Anti-social behaviour,BT306PJ
+2016-01,-6.340536,54.465622,Rectory Park,Anti-social behaviour,BT666HP
+2015-10,-6.046777,54.509784,Smithfield,Violence and sexual offences,BT281TH
+2017-09,-5.893425,54.215641,Beechfield Park,Violence and sexual offences,BT343AS
+2016-06,-5.927349,54.585445,Fitzroy Avenue,Anti-social behaviour,BT71HX
+2017-10,-5.692171,54.422994,Tullyveery Road,Other theft,BT309TD
+2017-02,-7.325758,55.006389,Edenmore Street,Criminal damage and arson,BT487JP
+2016-01,-6.25778,55.198041,Broombeg,Anti-social behaviour,BT546BQ
+2015-03,-6.277823,54.854567,Toome Road,Drugs,BT422BT
+2015-10,-5.936377,54.590478,St. Georges Gardens,Anti-social behaviour,
+2015-05,-5.914387,54.663455,Ardmillan Gardens,Violence and sexual offences,BT204NF
+2016-04,-6.467939,54.432068,Selshion  Hall,Anti-social behaviour,
+2017-12,-6.925532,55.036713,Rose Park,Violence and sexual offences,BT490BF
+2016-02,-5.896944,54.600877,Tamar Street,Criminal damage and arson,BT41HS
+2016-01,-5.923546,54.551946,Castledillon Road,Shoplifting,BT87BH
+2016-01,-5.95645,54.677119,Coolehill Park,Violence and sexual offences,BT365AA
+2015-10,-6.947697,55.138575,Drumavally,Other theft,BT490LT
+2017-01,-6.026226,54.555525,Glasvey Gardens,Anti-social behaviour,BT170DX
+2017-08,-5.9333,54.597155,Wellington Place,Anti-social behaviour,BT16GE
+2016-08,-6.092897,54.651204,Ballymather Road,Violence and sexual offences,BT294UL
+2017-11,-5.944349,54.585483,Dunluce Avenue,Violence and sexual offences,BT97AW
+2017-05,-5.822666,54.712543,Rhanbuoy Close,Other theft,BT388FF
+2017-02,-6.267694,54.354115,Churchview Drive,Anti-social behaviour,BT324AD
+2017-03,-7.330139,55.029517,Galliagh Park,Anti-social behaviour,BT488DE
+2016-02,-5.745216,54.549875,Killinchy Street,Violence and sexual offences,BT235AP
+2015-08,-6.011287,54.569306,Horn Drive,Anti-social behaviour,BT119GS
+2017-01,-5.92881,54.585317,Carmel Street,Drugs,BT71QE
+2016-06,-7.766569,54.706214,Corgary Road,Anti-social behaviour,BT817YF
+2015-07,,,No Location,Violence and sexual offences,
+2017-02,-5.95363,54.602775,Crossland Court,Burglary,BT132DT
+2017-10,-5.977734,54.663783,Upper Hollybrook Heights,Drugs,BT367XT
+2016-01,-5.921771,54.59959,Ann Street,Anti-social behaviour,BT546AA
+2017-02,-6.353172,54.453999,Old Portadown Road,Criminal damage and arson,BT668RH
+2016-09,-5.986703,54.594938,Springfield Road,Drugs,BT205BZ
+2017-11,-6.67081,54.847639,Thompson Gardens,Criminal damage and arson,BT465HJ
+2015-07,-5.791883,54.501496,Church Hill Park,Other theft,BT236JF
+2015-09,-6.445104,54.428713,Woodside Green,Anti-social behaviour,BT621EN
+2015-07,-5.837142,54.631253,Loughview Avenue,Anti-social behaviour,BT387PE
+2017-08,-7.322908,55.001154,Clarendon Street,Other theft,BT487ET
+2016-04,-7.3196,54.992522,Carlisle Road,Anti-social behaviour,BT152PT
+2015-06,-5.943897,54.583714,Wellesley Avenue,Violence and sexual offences,BT96DG
+2016-06,-6.789846,55.163133,The Fairways,Other crime,BT623FR
+2015-09,-5.711796,54.315782,Glebetown Drive,Violence and sexual offences,BT306QB
+2015-11,-5.806073,54.589263,Ardara Mews,Criminal damage and arson,BT162BF
+2015-05,-6.654911,54.352216,Lisanally Lane,Violence and sexual offences,BT617HE
+2015-04,-6.760148,54.515325,Lambfield Meadows,Other crime,BT716GF
+2016-12,-5.680498,54.653773,Clandeboye Road,Criminal damage and arson,BT191AA
+2015-10,-5.991076,54.584076,Gortnamona Way,Vehicle crime,BT118PJ
+2017-06,-6.001461,54.56502,Brooke Drive,Violence and sexual offences,BT119NJ
+2017-12,-5.954073,54.629728,Sunningdale Park,Other theft,BT204UU
+2015-02,-6.355082,54.178706,Cairnmore Drive,Criminal damage and arson,BT282DP
+2017-06,-5.867901,54.595131,Upper Newtownards Road,Burglary,BT43NW
+2016-07,-5.697549,54.599718,Juniper Avenue,Violence and sexual offences,BT234HW
+2016-09,-5.887585,54.393766,Tullybeg Fort,Burglary,BT248LW
+2016-07,-6.05762,54.526303,Thornhill Gardens,Violence and sexual offences,BT283EQ
+2017-07,-6.027514,54.543264,The Cutts,Drugs,BT179HN
+2015-08,-7.638603,54.362182,Derrygore Road,Anti-social behaviour,BT744FH
+2016-07,-5.954058,54.618003,Oldpark Road,Anti-social behaviour,BT146QS
+2016-07,-5.85972,54.617746,Parklands,Anti-social behaviour,BT414NH
+2017-08,-6.75245,54.648189,Burn Road,Violence and sexual offences,BT97GY
+2015-02,-6.695978,55.106048,Dunderg Road,Violence and sexual offences,BT514NE
+2015-07,-7.298351,54.997063,Shearwater Way,Anti-social behaviour,BT476LF
+2015-06,-5.96233,54.587243,Rodney Parade,Violence and sexual offences,BT126EE
+2016-10,-7.650998,54.34807,Rossorry Church Road,Anti-social behaviour,BT747HB
+2015-01,-6.391973,54.443614,Parkmore,Shoplifting,BT642AQ
+2017-12,-5.979746,54.582944,Glen Parade,Violence and sexual offences,BT118DP
+2016-04,-6.288209,54.873311,Parkmount Road,Anti-social behaviour,BT364QQ
+2017-07,-5.833981,54.642635,Strand Mews,Anti-social behaviour,BT54TP
+2015-03,-5.750927,54.771838,Main Street,Violence and sexual offences,BT936HW
+2015-05,-6.253557,54.856843,Knockeen Crescent,Violence and sexual offences,BT424DQ
+2017-01,-5.890484,54.683841,Glenshane Park,Criminal damage and arson,BT370QN
+2016-07,-7.300044,54.606437,Mountjoy Road,Violence and sexual offences,BT715DY
+2017-05,-6.658574,54.272332,Killyfaddy West Road,Violence and sexual offences,BT602PG
+2015-03,-5.928221,54.608794,Earl Close,Shoplifting,BT365FF
+2016-07,-5.691355,54.592672,Movilla Street,Anti-social behaviour,BT237JQ
+2017-11,-7.355458,55.015749,Rosskeen Park,Violence and sexual offences,BT480RH
+2016-11,-5.895977,54.590519,Jonesboro Park,Other theft,BT55FY
+2017-01,-5.934027,54.599306,Marquis Street,Violence and sexual offences,BT234DX
+2017-08,,,No Location,Violence and sexual offences,
+2015-02,-6.267073,54.344016,Belmont View,Other theft,
+2015-08,-5.941842,54.598073,Cullingtree Road,Violence and sexual offences,BT124BA
+2016-09,-5.927693,54.553374,Crevenish Walk,Anti-social behaviour,BT87FE
+2016-01,-5.67411,54.656813,Abbey Street,Anti-social behaviour,BT204JB
+2015-10,-7.288249,54.99757,Rossdale,Violence and sexual offences,BT475RD
+2016-02,-5.940605,54.600811,Fingals Court,Anti-social behaviour,BT132DP
+2017-11,-5.924715,54.585229,The Cloisters,Criminal damage and arson,BT578PA
+2017-04,-5.927653,54.600778,Waring Street,Anti-social behaviour,BT424BU
+2016-09,-5.90041,54.590964,Euston Street,Violence and sexual offences,BT69AF
+2015-06,-6.043742,54.512557,Railway Street,Violence and sexual offences,BT617HP
+2017-08,-6.277498,54.881901,Dunvale,Drugs,BT436PA
+2015-12,-6.4418,54.423594,Meadow Lane,Anti-social behaviour,BT745NU
+2017-07,-6.585527,54.600347,Ballynafeagh Road,Other crime,BT715NT
+2016-02,-5.928176,54.592629,Adelaide Street,Other theft,BT28FF
+2016-05,-5.932841,54.576886,Stranmillis Court,Other theft,BT95EU
+2016-03,-5.897058,54.60167,Medway Street,Anti-social behaviour,BT41GP
+2017-10,-6.746258,54.613286,Killycolp Road,Anti-social behaviour,BT809AD
+2017-05,-6.264263,54.855209,Chichester Park East,Anti-social behaviour,BT424BH
+2017-02,-7.314697,54.49969,Castle Street,Violence and sexual offences,BT344BH
+2017-07,-6.600329,54.753272,Beechland Place,Anti-social behaviour,BT456BJ
+2017-03,,,No Location,Shoplifting,
+2016-08,-5.938064,54.626878,Antrim Road,Robbery,BT152AH
+2015-08,-5.637648,54.645783,Beaumont Heights,Anti-social behaviour,BT196WP
+2017-11,-7.488588,54.453685,Woodview Crescent,Anti-social behaviour,BT281LF
+2016-09,-6.653563,54.347367,Scotch Street,Anti-social behaviour,BT306AN
+2017-04,-7.324298,55.000237,Queen Street,Anti-social behaviour,BT151ES
+2017-06,-5.6728,54.661847,Gray'S Hill,Criminal damage and arson,BT203BB
+2017-05,-7.664019,54.33164,Drumawill Park,Anti-social behaviour,BT745JR
+2016-06,-7.322812,54.999402,Great James Street,Violence and sexual offences,BT487BZ
+2017-04,-5.968031,54.550734,Old Coach Avenue,Anti-social behaviour,BT95PY
+2017-10,-5.877098,54.407501,Hall Road,Anti-social behaviour,BT275JA
+2015-06,-7.326979,55.033308,Ederowen Park,Anti-social behaviour,BT488NZ
+2017-01,-6.455023,55.082055,Boyland Road,Anti-social behaviour,BT537HE
+2017-03,-7.304696,54.599537,John Street,Anti-social behaviour,BT486JY
+2015-09,-7.463449,54.826979,Castle Street,Violence and sexual offences,BT344BH
+2016-01,-5.989518,54.566089,Finaghy Road North,Criminal damage and arson,BT119EG
+2015-03,-6.276779,54.335889,Bannview Mews,Shoplifting,BT323PZ
+2017-01,-7.457651,54.513891,Omagh Road,Anti-social behaviour,BT784QY
+2017-03,-5.978522,54.617327,Forthriver Green,Violence and sexual offences,BT133UR
+2017-08,-6.527198,55.201278,Dunluce Manor,Anti-social behaviour,BT578WZ
+2016-08,-6.606788,54.754694,Market Street,Criminal damage and arson,BT622BP
+2016-05,-6.347279,54.167736,Glen Hill,Burglary,BT358BY
+2016-07,-5.958754,54.612637,Brookfield Place,Criminal damage and arson,BT147FN
+2017-11,-6.455132,54.421447,West Street,Violence and sexual offences,BT389HR
+2015-06,-6.063489,54.508059,Dundrod Court,Drugs,BT281NF
+2016-08,-7.316103,54.985028,Camelia Court,Criminal damage and arson,BT472EL
+2017-09,-7.332536,55.017026,Springtown Road,Violence and sexual offences,BT480LY
+2016-02,-5.926317,54.613667,North Queen Street,Vehicle crime,BT151ES
+2015-02,-7.318883,54.994278,Bridge Street,Other theft,BT281XZ
+2016-03,-5.839221,54.858315,Garron Walk,Anti-social behaviour,BT402AU
+2015-12,-5.923238,54.585967,Ormeau Road,Anti-social behaviour,BT73GA
+2015-07,-6.253979,55.200187,Castle Street,Anti-social behaviour,BT344BH
+2015-11,-5.922012,54.628877,Oakmount Drive,Shoplifting,BT153RE
+2015-04,-6.752976,54.653746,Windsor Crescent,Violence and sexual offences,BT808EZ
+2017-07,-7.320295,54.99672,Shipquay Street,Violence and sexual offences,BT486DN
+2015-04,-5.827183,54.645487,Seapark Terrace,Anti-social behaviour,BT180LJ
+2016-06,-6.058467,54.513998,Hillside Gardens,Other theft,BT196SJ
+2015-02,-5.907669,54.575231,Knock Eden Park,Vehicle crime,BT60JF
+2016-09,-5.933011,54.599199,Queen Street,Anti-social behaviour,BT151ES
+2016-08,-7.325111,55.026246,Bloomfield Park,Anti-social behaviour,BT488HA
+2017-09,-5.96465,54.563067,Bristow Park,Anti-social behaviour,BT96TG
+2016-06,-7.719393,54.522212,Rosscolban Park,Violence and sexual offences,
+2017-07,-5.699524,54.598731,Glenard Road,Anti-social behaviour,BT234HS
+2017-12,-5.910804,54.563829,Saintfield Road,Shoplifting,BT88SG
+2016-07,-5.902186,54.556717,Colby Park,Criminal damage and arson,BT86NP
+2016-06,-5.932404,54.586753,Botanic Avenue,Other theft,BT71JL
+2015-04,-6.529092,54.260642,Oakfield Road,Violence and sexual offences,BT489BB
+2017-04,-5.807505,54.59486,Upper Newtownards Road,Anti-social behaviour,BT43NW
+2015-01,-5.950073,54.586703,Dunluce Avenue,Anti-social behaviour,BT97AW
+2015-02,-5.948822,54.624518,Westland Drive,Criminal damage and arson,BT146NG
+2017-08,-5.986071,54.681991,Willowtree Park,Other theft,BT364GS
+2016-10,-7.637415,54.352126,Carnmore Rise,Drugs,BT746BD
+2017-10,-6.7937,54.451466,Beech Mews,Violence and sexual offences,BT701NG
+2016-06,-6.074134,54.381163,Banbridge Road,Anti-social behaviour,BT252NF
+2015-07,-5.961805,54.590325,Iveagh Drive,Other theft,BT323YE
+2016-10,-5.937646,54.597813,Killen Street,Criminal damage and arson,
+2015-01,-5.921364,54.644005,Shore Road,Violence and sexual offences,BT413NW
+2015-06,-6.01017,54.569387,Horn Drive,Anti-social behaviour,BT119GS
+2015-02,-6.009076,54.571516,Mizen Gardens,Anti-social behaviour,BT119GQ
+2017-12,-7.331095,55.004963,Rosemount Avenue,Robbery,BT480HL
+2015-08,-5.910852,54.599753,Strand Close,Anti-social behaviour,BT54TR
+2016-02,-5.952622,54.671214,Church Crescent,Anti-social behaviour,BT366ES
+2016-03,-5.950646,54.596857,Leeson Street,Violence and sexual offences,BT124LF
+2016-11,-5.954923,54.668935,Antrim Road,Anti-social behaviour,BT152AH
+2017-01,-5.801767,54.554888,Ballyrussell Road,Public order,BT161XE
+2017-08,-5.891737,54.598019,Connswater Street,Anti-social behaviour,BT41HT
+2016-02,-5.932232,54.611207,New Lodge Road,Criminal damage and arson,BT152EJ
+2016-07,-6.709853,55.187933,Station Road,Anti-social behaviour,BT41RF
+2015-04,-7.453149,54.258819,Sylvan Hill,Violence and sexual offences,BT920LP
+2015-11,-5.964797,54.6646,Hightown Rise,Burglary,BT367XA
+2015-10,-6.27512,54.344293,Forthill Green,Anti-social behaviour,BT323JE
+2017-02,-5.68997,54.594182,East Street,Anti-social behaviour,BT237DD
+2017-12,-6.713085,54.591781,Gortagammon Road,Anti-social behaviour,BT808UY
+2017-03,-5.856751,54.594709,Ormiston Park,Other crime,BT43JT
+2016-06,-6.031369,54.54312,Derriaghy Road,Anti-social behaviour,BT283SH
+2015-10,-5.871908,54.699482,Station Road,Anti-social behaviour,BT41RF
+2017-12,-7.663332,54.331045,Drumawill Gardens,Violence and sexual offences,BT745QW
+2016-06,-6.745853,54.651606,Moneymore Road,Anti-social behaviour,BT808EH
+2016-05,-6.333546,54.179102,Sandys Street,Anti-social behaviour,BT341EN
+2015-12,-6.717645,55.181924,Coleraine Road,Shoplifting,BT568HN
+2017-07,-5.988067,54.598033,Moyard Parade,Violence and sexual offences,BT127HG
+2015-03,-5.920783,54.651435,Bawnmore Park,Other theft,BT367BQ
+2016-04,-6.026765,54.552363,Juniper Way,Anti-social behaviour,BT170BQ
+2016-09,-5.935596,54.550544,Belvoir Drive,Criminal damage and arson,BT87DT
+2017-02,-6.40691,54.181595,Newry Road,Drugs,BT323NB
+2015-05,-5.932372,54.613321,Duncairn Gardens,Violence and sexual offences,BT152GG
+2016-08,-5.93543,54.595116,Glengall Street,Other theft,BT125AB
+2017-04,-6.007135,54.679329,Parkmount Road,Criminal damage and arson,BT364QQ
+2015-11,-6.946384,55.038396,Gorteen Crescent,Anti-social behaviour,BT499EW
+2017-09,-7.812563,54.417135,Rosnarick Close,Anti-social behaviour,BT936JX
+2017-02,-7.234642,54.871727,Moneycanon Road,Violence and sexual offences,BT820QA
+2017-04,-5.919101,54.565176,Galwally Avenue,Anti-social behaviour,BT87AJ
+2015-11,-5.907355,54.677529,Bleach Green Avenue,Criminal damage and arson,BT370BY
+2015-05,-5.698955,54.649947,Drumhirk Drive,Anti-social behaviour,BT191FP
+2017-02,-6.318217,54.434425,Dunkirk Road,Anti-social behaviour,BT667SW
+2016-07,-6.20598,54.722436,Seacash Drive,Violence and sexual offences,BT411AX
+2015-06,-6.044499,54.513512,Railway Street,Violence and sexual offences,BT617HP
+2017-09,-5.93765,54.586411,Abercorn Street,Anti-social behaviour,BT96UD
+2015-11,-5.911742,54.594781,Ravenhill Road,Other theft,BT68EF
+2017-03,-5.959,54.599379,Oranmore Street,Anti-social behaviour,BT132RU
+2015-07,-6.555242,54.951328,The Diamond,Anti-social behaviour,BT486PE
+2015-10,-6.169674,54.238603,Lissize Avenue,Anti-social behaviour,BT345DE
+2016-02,-6.684596,54.441666,Churchview,Violence and sexual offences,BT344JE
+2016-06,-5.940849,54.56899,Hillside Drive,Criminal damage and arson,BT344JF
+2015-11,-6.488046,54.412934,Drumnasoo Road,Violence and sexual offences,BT624EU
+2017-06,-6.334837,54.187754,Belfast Road,Anti-social behaviour,BT248EB
+2017-12,-5.925203,54.602102,Victoria Street,Anti-social behaviour,BT27AG
+2017-09,-6.266506,54.352022,Church Square,Anti-social behaviour,BT345PT
+2016-08,-5.881285,54.605591,Wellwood Close,Anti-social behaviour,BT41NQ
+2017-04,-6.355071,54.893658,Shelling Hill Road,Drugs,
+2016-11,-6.943048,55.040343,Glenmill Park,Criminal damage and arson,BT490RS
+2016-02,-6.939752,55.040162,Enagh Park,Criminal damage and arson,BT490SA
+2015-10,-6.941795,55.040395,Glenview Drive,Anti-social behaviour,BT490RZ
+2015-01,-5.903573,54.696162,Hedgelea Avenue,Violence and sexual offences,BT370WW
+2016-04,-6.069005,55.07959,Chapel Road,Burglary,BT294LY
+2015-04,-5.924674,54.593944,Cromac Street,Anti-social behaviour,BT28JE
+2017-09,-5.955934,54.575958,Marlborough Court,Anti-social behaviour,BT97EF
+2017-08,-5.990206,54.566864,Northlands Park,Other theft,BT100JG
+2017-01,-5.696199,54.59759,Talbot Street,Violence and sexual offences,BT234EG
+2017-05,-5.893771,54.510027,Muskett Road,Criminal damage and arson,BT88QS
+2016-04,-5.887918,54.212705,Downs Road,Anti-social behaviour,BT330AG
+2015-04,-5.832002,54.641989,The Crescent,Vehicle crime,BT522DS
+2015-12,-5.716178,54.329325,Church Avenue,Criminal damage and arson,BT330NB
+2015-06,-6.680354,54.22341,Upper Darkley Road,Violence and sexual offences,BT603BS
+2016-05,-5.932362,54.586663,India Street,Vehicle crime,BT71LJ
+2016-10,-6.452185,54.434635,Ballyoran Park,Anti-social behaviour,BT621JT
+2015-08,-7.593242,54.707903,Meetinghouse Lane,Vehicle crime,BT817BQ
+2015-04,-6.411257,54.438056,Kernan Grove,Anti-social behaviour,BT635RX
+2017-01,-6.669696,55.131689,New Row,Anti-social behaviour,BT521AF
+2017-07,-6.030979,54.567238,Springbank Drive,Anti-social behaviour,BT170QN
+2017-04,-5.913838,54.656329,Merville Garden Village,Anti-social behaviour,BT379TZ
+2015-01,-5.48814,54.540045,Demesne Drive,Violence and sexual offences,BT222UJ
+2016-08,-5.927226,54.577509,Annadale Embankment,Anti-social behaviour,BT999AA
+2016-01,-6.649939,54.34624,Friary Road,Violence and sexual offences,BT538XZ
+2015-09,-7.37648,54.718435,Castle Brae,Anti-social behaviour,BT784AS
+2017-08,-5.941791,54.589878,Felt Street,Violence and sexual offences,BT125NU
+2016-04,-5.975089,54.732167,Logwood Road,Anti-social behaviour,BT399LR
+2016-06,-5.917135,54.660959,Ardfarn Close,Violence and sexual offences,BT379AN
+2015-07,-7.448538,54.26055,Cherryhill,Anti-social behaviour,BT161JD
+2016-09,-6.084315,54.461265,Main Street,Anti-social behaviour,BT936HW
+2016-10,-5.696727,54.591535,Court Street,Anti-social behaviour,BT237NX
+2016-09,-6.017536,54.572131,Glenties Drive,Anti-social behaviour,BT119HT
+2016-12,-6.950814,55.05083,Market Street,Shoplifting,BT622BP
+2017-03,-7.322421,55.003137,Strand Road,Violence and sexual offences,BT487AD
+2017-10,-7.685272,54.304145,Skea Road,Other crime,BT920JW
+2015-03,-5.896876,54.589591,Castlereagh Road,Anti-social behaviour,BT55FZ
+2017-08,-7.631751,54.343988,Roundabout,Violence and sexual offences,
+2017-10,-5.625091,54.658916,Sherwood Road,Anti-social behaviour,BT196DJ
+2016-03,-5.926983,54.584136,Jerusalem Street,Criminal damage and arson,BT71QN
+2015-06,-5.887212,54.219621,Westland Avenue,Shoplifting,BT489JE
+2015-01,-6.312705,54.457923,Pines Park,Anti-social behaviour,BT667BP
+2016-02,-6.413876,54.423338,Killycomain Close,Anti-social behaviour,BT635JP
+2016-12,-7.445776,54.253709,Water Street,Shoplifting,BT126BZ
+2015-04,-5.932362,54.586663,India Street,Anti-social behaviour,BT71LJ
+2015-11,-5.922319,54.584882,Rutland Street,Shoplifting,BT72FJ
+2015-08,-7.319792,54.596147,Tamlaght Road,Anti-social behaviour,BT448TG
+2016-08,-7.272556,55.029788,Coneyburrow,Violence and sexual offences,BT476YD
+2017-03,-6.043661,54.541047,Milltown Avenue,Violence and sexual offences,BT283TR
+2016-11,-5.941492,54.659264,Bellevue Park,Anti-social behaviour,BT367QD
+2016-09,-6.083626,54.524157,Mourne View Park,Criminal damage and arson,BT356BZ
+2015-08,-5.81549,54.85276,Agnew Street,Anti-social behaviour,BT401RF
+2017-11,-5.92559,54.585657,Dudley Street,Vehicle crime,BT71GW
+2017-03,-5.939027,54.62622,Kenbella Parade,Bicycle theft,BT155DX
+2017-07,-5.958829,54.613923,Brookfield Street,Criminal damage and arson,BT147EX
+2015-11,-6.351386,54.189994,Larchmount,Shoplifting,
+2017-11,-5.924925,54.599348,Upper Church Lane,Criminal damage and arson,BT635JE
+2015-09,-6.090641,54.481069,Culcavy Road,Criminal damage and arson,BT266JD
+2017-01,-5.892072,54.405642,Drummond Brae,Drugs,BT248EY
+2016-11,-6.022873,54.570826,Colinvale,Anti-social behaviour,BT170JN
+2017-08,-5.860118,54.594832,Greenwood Park,Burglary,BT43JN
+2016-11,-7.648099,54.352553,Derrin Park,Burglary,BT746BW
+2017-07,-5.700121,54.594996,West Street,Anti-social behaviour,BT389HR
+2015-08,-6.276372,54.855732,Wakehurst Road,Anti-social behaviour,BT423LJ
+2016-07,-7.335502,54.999329,Marlborough Road,Criminal damage and arson,BT489BH
+2015-10,-6.020533,54.556888,Glasvey Drive,Drugs,BT499HQ
+2017-02,-6.810722,54.53116,Ivybank Park,Anti-social behaviour,BT703EX
+2015-07,-7.170267,55.038161,Airfield Road,Anti-social behaviour,BT557HX
+2015-08,-6.257406,54.354056,Willow Grove,Anti-social behaviour,BT341JH
+2017-11,-6.274101,54.364207,Knollwood,Drugs,BT324PE
+2017-06,-6.653954,55.206678,Atlantic Avenue,Violence and sexual offences,BT152HN
+2016-07,-5.927828,54.598562,Arthur Square,Anti-social behaviour,BT14FF
+2015-01,-5.974605,54.617953,Abbeydale Drive,Anti-social behaviour,BT238RU
+2015-05,-5.923658,54.620585,Arosa Parade,Anti-social behaviour,BT153JF
+2017-06,-6.790244,55.166578,Main Street,Anti-social behaviour,BT936HW
+2015-10,-5.924189,54.583701,Agincourt Avenue,Violence and sexual offences,BT71QD
+2016-09,-6.032284,54.550422,Lagmore Drive,Anti-social behaviour,BT170TG
+2017-09,-5.930334,54.599189,Castle Street,Violence and sexual offences,BT344BH
+2015-09,-6.259509,54.106766,Lassara Heights,Criminal damage and arson,BT343PG
+2016-03,-6.519001,55.065755,West Gate,Anti-social behaviour,BT536LD
+2016-02,-6.188752,54.709898,Firmount Drive,Violence and sexual offences,BT411JN
+2015-03,-6.921038,55.043878,Whispering Pines,Violence and sexual offences,BT490UB
+2017-12,-5.688775,54.652925,Silverstream Road,Drugs,BT148GF
+2015-04,-5.935169,54.588355,Lisburn Road,Violence and sexual offences,BT97GY
+2017-09,-5.6734,54.650258,Whitehill Avenue,Anti-social behaviour,BT204DY
+2016-04,-5.982751,54.578169,Kennedy Way,Criminal damage and arson,BT119AP
+2015-07,-5.914614,54.595496,Mays Meadow,Violence and sexual offences,BT13PH
+2015-03,-6.021313,54.56664,Hazelwood Avenue,Drugs,BT170SZ
+2017-02,-5.924849,54.597496,Seymour Street,Shoplifting,BT536JR
+2017-03,-6.448511,54.432341,Churchill Park,Drugs,BT621EX
+2016-11,-5.950992,54.687584,Beverley Avenue,Anti-social behaviour,BT237UE
+2016-07,-6.094474,54.548579,Sheepwalk Road,Drugs,BT283RD
+2017-02,-5.997472,54.530631,Sandyhill Avenue,Other theft,BT179LT
+2016-10,-6.343336,54.177134,Monaghan Street,Other theft,BT356AA
+2015-05,-5.958142,54.618997,Alliance Avenue,Anti-social behaviour,BT147NX
+2016-05,-5.90134,54.20621,Commedagh Park,Other theft,BT319EF
+2017-01,-6.227299,54.721897,Coral Crescent,Vehicle crime,BT414LW
+2015-08,-5.945343,54.598007,Albert Street,Anti-social behaviour,BT666JG
+2015-08,-5.93162,54.539631,Ballycoan Road,Violence and sexual offences,BT88LP
+2015-09,-5.925996,54.617237,Gainsborough Drive,Anti-social behaviour,BT153EL
+2017-11,-6.328696,54.447328,The Hollows,Burglary,BT667FF
+2016-03,-7.342649,54.999924,Westway,Anti-social behaviour,BT133NS
+2015-05,-6.272851,54.868152,Broughshane Street,Anti-social behaviour,BT436EE
+2015-06,-6.257283,54.946594,Drumagrove Road,Anti-social behaviour,BT449RZ
+2015-01,-6.69121,54.446455,The Square,Anti-social behaviour,BT717SG
+2017-07,-6.130802,54.173151,Leitrim Road,Vehicle crime,BT345XS
+2016-10,-5.910359,54.591568,Ravenhill Road,Anti-social behaviour,BT68EF
+2017-10,-6.708179,54.480346,Dungorman Road,Anti-social behaviour,BT716SD
+2016-08,-5.695707,54.654764,Lyndhurst Crescent,Violence and sexual offences,BT133XF
+2016-04,-6.326358,54.459677,Queen Street,Vehicle crime,BT151ES
+2016-04,-6.2771,54.866407,High Street,Anti-social behaviour,BT248AB
+2016-03,-5.90223,54.579648,Onslow Gardens,Anti-social behaviour,BT197HH
+2017-07,-6.667489,55.127802,Mount Street Mews,Violence and sexual offences,BT521HP
+2017-03,-5.791883,54.501496,Church Hill Park,Other theft,BT236JF
+2017-02,-5.802018,54.595605,Cherryhill Road,Other theft,BT161JL
+2017-07,-6.287852,54.867412,Upper Princes Street,Other theft,BT435DX
+2017-06,-6.005665,54.749745,Hawthorn Way,Violence and sexual offences,BT399EH
+2016-09,-6.944669,55.039971,Coolessan Walk,Anti-social behaviour,BT499EN
+2017-07,-5.711127,54.753338,Edward Road,Anti-social behaviour,BT389RU
+2017-05,-5.90193,54.59932,Newtownards Road,Anti-social behaviour,BT41AF
+2016-11,-7.638855,54.345689,Cross Street,Anti-social behaviour,BT309QG
+2015-05,-7.286317,54.609141,Castleview Park,Violence and sexual offences,BT797SG
+2017-09,-5.894963,54.597267,Albertbridge Road,Violence and sexual offences,BT54GS
+2016-06,-5.893291,54.556832,Windrush Park,Violence and sexual offences,BT86LZ
+2015-07,-7.216132,54.980194,Lettershendony Avenue,Anti-social behaviour,BT473HY
+2016-08,-5.934473,54.623789,Glantrasna Drive,Anti-social behaviour,BT153FQ
+2016-10,-6.65186,55.203564,Victoria Street,Anti-social behaviour,BT27AG
+2016-12,-6.008579,54.06199,Knockchree Avenue,Other theft,BT344BP
+2016-08,-6.921649,54.991431,Ballyquin Road,Anti-social behaviour,BT474NQ
+2016-05,-5.958083,54.586794,Glenmachan Street,Violence and sexual offences,BT126JB
+2015-03,-5.892509,54.213154,Shimna Vale,Violence and sexual offences,BT330EF
+2015-12,-5.884667,54.400796,Hillfoot Crescent,Violence and sexual offences,BT248ES
+2015-01,-6.511321,54.868911,Beechland Park,Other theft,BT448NH
+2016-12,-6.370104,54.444264,Clonmeen,Anti-social behaviour,BT654AR
+2017-03,-6.349592,54.183878,Iveagh Crescent,Other theft,BT126AW
+2016-07,-6.086176,54.528744,Glenwood Court,Violence and sexual offences,BT283UD
+2016-02,-5.991837,54.585265,Gortnamona Court,Other theft,BT118PH
+2015-03,-5.965479,54.673282,Harmin Drive,Burglary,BT367UJ
+2015-10,-5.967897,54.619602,Ardoyne Road,Criminal damage and arson,BT147HX
+2015-11,-6.810982,54.530713,Ivybank Park,Anti-social behaviour,BT703EX
+2017-04,-7.307984,54.993013,Lower Violet Street,Vehicle crime,BT472AR
+2015-11,-6.068933,54.523249,Ballymacash Road,Anti-social behaviour,BT283DX
+2015-12,-5.983961,54.62819,Weavershill Road,Anti-social behaviour,BT148PS
+2015-10,-7.281744,54.599915,Woodvale Avenue,Anti-social behaviour,BT790AU
+2017-01,-6.754299,54.516739,Hillcroft,Violence and sexual offences,BT716SJ
+2016-12,-5.925804,54.602454,Dunbar Street,Anti-social behaviour,BT12LH
+2016-06,-6.338344,54.179788,New Street,Violence and sexual offences,BT413AF
+2017-02,-6.655843,54.352882,Banbrook Hill,Vehicle crime,BT617LP
+2015-01,-6.040154,54.204802,Fofanny Road,Burglary,BT345LP
+2015-05,-7.460116,54.823704,Meetinghouse Street,Other theft,BT828HW
+2016-12,-7.638603,54.362182,Derrygore Road,Anti-social behaviour,BT744FH
+2017-11,-5.970031,54.628973,Benview Park,Anti-social behaviour,BT148HT
+2017-10,-6.215095,54.620939,Mill Road,Violence and sexual offences,BT344RH
+2015-11,-6.187187,54.713325,Bleerick Drive,Possession of weapons,BT411HU
+2016-12,-5.934882,54.589437,Donegall Road,Violence and sexual offences,BT126HN
+2015-05,-5.897453,54.400731,Dromore Street,Drugs,BT68PF
+2015-09,-6.135163,54.55446,Moss Road,Vehicle crime,BT222DS
+2017-10,-6.508254,54.869287,Glenone Road,Anti-social behaviour,BT421LQ
+2015-01,-5.993768,54.685021,Antrim Road,Anti-social behaviour,BT152AH
+2017-06,-5.944052,54.598749,St. Peters Place,Vehicle crime,
+2015-12,-7.640341,54.353357,Moyletra Gardens,Anti-social behaviour,BT746EJ
+2015-06,-6.657264,54.69103,Loup Road,Anti-social behaviour,BT457ST
+2017-12,-5.966411,54.627043,Ballysillan Road,Anti-social behaviour,BT146RE
+2017-12,-7.591446,54.226541,Knockninny Road,Burglary,BT929JT
+2016-07,-5.934406,54.594568,Great Victoria Street,Anti-social behaviour,BT27AG
+2015-12,-5.920877,54.592531,Mcauley Street,Anti-social behaviour,BT72BP
+2016-03,-5.672675,54.659957,Dufferin Avenue,Violence and sexual offences,BT203AD
+2017-04,-5.714675,54.329261,Scotch Street,Violence and sexual offences,BT306AN
+2015-05,-5.957168,54.617112,Jamaica Road,Anti-social behaviour,BT147QW
+2015-08,-5.914541,54.65653,Merville Garden Village,Burglary,BT379TZ
+2015-04,-5.675388,54.654259,Newtownards Road,Anti-social behaviour,BT41AF
+2015-09,-6.936923,55.044233,Drumachose Park,Violence and sexual offences,BT490NZ
+2017-09,-6.359395,54.183132,Parkhead Crescent,Anti-social behaviour,BT358PE
+2016-10,-7.34985,55.021342,O'Casey Court,Anti-social behaviour,BT480PS
+2015-01,-6.740755,54.652623,Dunmore Crescent,Anti-social behaviour,BT153GL
+2015-05,-6.217989,54.721122,Cavalier Court,Anti-social behaviour,BT414HJ
+2017-05,-5.758136,54.548228,Swallow Close,Vehicle crime,BT235UJ
+2016-01,-5.96168,54.611087,Ohio Street,Criminal damage and arson,BT133HU
+2017-01,-5.930305,54.598533,Donegall Place,Violence and sexual offences,BT15AB
+2015-04,-5.978141,54.580374,Blackstaff Road,Other theft,BT119DT
+2017-07,-6.341111,54.178389,Lower Catherine Street,Criminal damage and arson,BT356BE
+2015-11,-6.663991,55.148982,Elms Park,Burglary,BT522QF
+2017-08,-6.008767,54.551223,Ashley Lodge,Anti-social behaviour,BT170AF
+2015-05,-6.043086,54.507856,Hill Street,Anti-social behaviour,BT12LB
+2017-06,-7.318823,54.996883,Foyle Street,Anti-social behaviour,BT486XY
+2017-12,-5.942716,54.622779,Cavehill Road,Anti-social behaviour,BT155EY
+2015-02,-5.84021,54.852061,Hampton Crescent,Anti-social behaviour,BT402BW
+2015-10,-5.932781,54.587541,Botanic Avenue,Anti-social behaviour,BT71JL
+2015-08,-5.706257,54.331905,Marian Park,Violence and sexual offences,BT308DJ
+2016-06,-5.936466,54.58658,Claremont Street,Criminal damage and arson,BT96UA
+2016-03,-5.928819,54.600385,Rosemary Street,Anti-social behaviour,BT11QB
+2016-11,-7.325852,55.028676,Altcar Park,Criminal damage and arson,BT488HZ
+2017-01,-5.659482,54.646539,Bloomfield Road South,Shoplifting,BT197HR
+2015-05,-5.856241,54.62002,Glendarragh Mews,Shoplifting,BT42WE
+2017-01,-6.278581,54.87295,Holland Park,Anti-social behaviour,BT56HB
+2017-05,-6.663686,55.133707,Railway Place,Anti-social behaviour,BT521PQ
+2017-06,-6.338872,54.173093,Georges Lane,Anti-social behaviour,BT341AQ
+2015-12,-5.92714,54.605406,Little Patrick Street,Criminal damage and arson,BT151BA
+2016-03,-5.525565,54.487539,Rectory Park,Violence and sexual offences,BT666HP
+2017-12,-6.484155,54.873058,Riverside,Criminal damage and arson,BT746BR
+2016-08,-6.231232,54.346398,Lisnaree Road,Anti-social behaviour,BT324JU
+2015-11,-7.280728,55.003957,Sperrin Park,Anti-social behaviour,BT785BA
+2017-06,-6.225262,54.713466,Lough Road,Drugs,BT413DP
+2016-04,-6.331549,54.998036,Main Street,Anti-social behaviour,BT936HW
+2017-10,-7.461555,54.826665,Church Street,Other theft,BT343HN
+2016-10,-5.63734,54.648158,Ashbury Avenue,Violence and sexual offences,BT196ZG
+2016-07,-5.962082,54.610492,Chief Street,Violence and sexual offences,BT133JR
+2017-06,-6.188752,54.709898,Firmount Drive,Anti-social behaviour,BT411JN
+2015-04,-6.030466,54.507004,Saintfield Road,Burglary,BT88SG
+2015-06,-5.901486,54.679494,Abbeyglen Park,Anti-social behaviour,BT370TN
+2015-12,-6.670168,54.690992,Stonard Street,Violence and sexual offences,BT457PN
+2017-06,-5.674503,54.647763,South Avenue,Anti-social behaviour,BT204DU
+2017-10,-5.8809,54.604659,Sandbrook Park,Violence and sexual offences,BT41NL
+2015-07,-5.981447,54.585155,Norbury Street,Anti-social behaviour,BT118AD
+2015-09,-6.256296,55.200364,Leyland Road,Criminal damage and arson,BT546EZ
+2015-08,-6.222832,54.732828,Durnish Road,Anti-social behaviour,BT412TH
+2017-02,-5.902633,54.508555,Moss Road,Anti-social behaviour,BT222DS
+2016-05,-5.937238,54.588138,Blondin Street,Criminal damage and arson,
+2016-06,-5.979433,54.559272,Benmore Drive,Anti-social behaviour,BT100EG
+2015-05,-5.990795,54.582544,Portnamona Court,Other theft,BT118QF
+2015-03,-5.933463,54.591192,Ventry Lane,Anti-social behaviour,BT27JS
+2015-06,-7.351961,54.990291,Rathlin Gardens,Violence and sexual offences,BT489UE
+2016-10,-7.351961,54.990291,Rathlin Gardens,Criminal damage and arson,BT489UE
+2017-09,-5.70615,54.588506,Tower Court,Anti-social behaviour,BT486RH
+2015-09,-5.974046,54.554123,Greystown Park,Burglary,BT96UP
+2015-05,-6.545277,54.398381,Kilmore Park,Anti-social behaviour,BT670NP
+2017-09,-5.884692,54.51331,Killynure Close,Violence and sexual offences,BT88PP
+2017-01,-5.942306,54.590417,Matilda Gardens,Violence and sexual offences,BT125NP
+2015-12,-5.92641,54.601179,Hill Street,Other theft,BT12LB
+2016-04,-5.929112,54.662854,Rathmore Way,Other theft,BT379DS
+2016-07,-5.977379,54.599805,Black Mountain Parade,Violence and sexual offences,BT133TR
+2017-02,-5.931399,54.62335,Skegoneill Drive,Violence and sexual offences,BT153FY
+2015-08,-6.006832,54.063066,Harbour Road,Anti-social behaviour,BT221EA
+2016-09,-5.95791,54.670881,Carnmoney Road,Anti-social behaviour,BT366JR
+2017-04,-6.028517,54.554503,Altan Walk,Other theft,BT170UH
+2017-09,-5.961051,54.600456,Springfield Crescent,Anti-social behaviour,BT701QU
+2015-04,-6.370253,54.449055,Legahory Centre,Drugs,BT655BE
+2015-10,-5.992437,54.464804,Upper Ballynahinch Road,Anti-social behaviour,BT276XL
+2016-01,-6.659194,55.134889,Windsor Avenue,Violence and sexual offences,BT97DX
+2016-05,-5.979746,54.582944,Glen Parade,Violence and sexual offences,BT118DP
+2015-03,-6.14841,54.635265,Nutts Corner Roundabout,Vehicle crime,
+2016-04,-5.840278,54.858945,Linn Road,Anti-social behaviour,BT402AH
+2016-10,-7.32987,55.031537,Knockalla Park,Anti-social behaviour,BT488LT
+2015-02,-7.361057,55.01364,Springtown Road,Anti-social behaviour,BT480LY
+2015-05,-5.991721,54.582281,Aitnamona Crescent,Anti-social behaviour,BT118PN
+2015-09,-6.025879,54.565259,Colinmill,Anti-social behaviour,BT170AP
+2017-10,-6.337902,54.161785,Fathom Park,Violence and sexual offences,
+2015-10,-5.931754,54.598036,Fountain Street,Other theft,BT414BB
+2015-02,-6.029115,54.579589,Hawthorn View,Anti-social behaviour,BT170RN
+2017-06,-5.837577,54.290895,The Square,Anti-social behaviour,BT717SG
+2017-09,-5.897601,54.594141,Trillick Street,Violence and sexual offences,BT54TD
+2017-07,-6.216453,54.590618,Chestnut Glen,Anti-social behaviour,BT294GJ
+2017-09,-5.840647,54.633499,Oakley Avenue,Violence and sexual offences,BT189PE
+2015-01,-5.791302,54.73194,Portsmouth Gardens,Anti-social behaviour,BT387UN
+2017-11,-5.927095,54.60262,Hill Street,Violence and sexual offences,BT12LB
+2015-10,-5.891551,54.595033,Bloomfield Drive,Criminal damage and arson,BT55NY
+2015-12,-7.322908,55.001154,Clarendon Street,Violence and sexual offences,BT487ET
+2016-09,-5.92735,54.585732,Magdala Street,Anti-social behaviour,BT71PU
+2015-09,-6.069765,54.509857,Ballinderry Gardens,Anti-social behaviour,BT281SR
+2017-08,-5.890707,54.210014,Castle Place,Burglary,BT785ER
+2016-10,-6.06832,54.524111,Ballymacash Park,Anti-social behaviour,BT283EX
+2017-08,-6.008448,54.567597,Kells Avenue,Anti-social behaviour,BT119LB
+2016-06,-5.923696,54.590656,Cromac Place,Anti-social behaviour,BT72JB
+2015-07,-6.659889,55.193664,Glenaan Drive,Anti-social behaviour,BT568BZ
+2017-02,-5.813712,54.857705,Greenland Drive,Anti-social behaviour,BT401EY
+2017-09,,,No Location,Drugs,
+2015-07,-5.962673,54.58317,Boucher Way,Other theft,BT126RE
+2016-03,-6.598011,54.746184,Ronan Drive,Anti-social behaviour,BT456HD
+2017-01,-6.353186,54.888296,Main Street,Anti-social behaviour,BT936HW
+2017-04,-6.167857,54.237721,Loughbrickland Road,Violence and sexual offences,BT636BN
+2015-03,-6.324638,54.472707,Lurgan Tarry,Anti-social behaviour,BT679HN
+2017-11,-6.328239,54.475192,Desmond Avenue,Criminal damage and arson,BT679EQ
+2017-10,-5.967857,54.67502,Burneys Mews,Anti-social behaviour,BT367AS
+2017-08,-7.310804,54.995257,Bonds Hill,Bicycle theft,BT476DW
+2017-11,-5.979367,54.555605,Benmore Walk,Violence and sexual offences,BT100DS
+2015-01,-6.33641,54.473041,Brett Avenue,Other theft,BT666HZ
+2015-04,-7.293962,54.600194,Holmview Avenue,Other crime,BT790AQ
+2015-10,-5.716511,54.326375,St. Patricks Avenue,Anti-social behaviour,BT341HQ
+2015-03,-5.93765,54.586411,Abercorn Street,Violence and sexual offences,BT96UD
+2015-10,-6.837472,54.351229,Derrycourtney Road,Anti-social behaviour,BT684UQ
+2015-06,-5.961559,54.674788,Cairngorm Crescent,Criminal damage and arson,BT365EW
+2017-06,-6.041979,54.544856,Barnfield Grange,Violence and sexual offences,BT283RS
+2017-06,-5.928592,54.599366,Corn Market,Violence and sexual offences,BT358BG
+2015-01,-7.318465,55.01985,Racecourse Road,Drugs,BT488DS
+2016-03,-5.891737,54.598019,Connswater Street,Anti-social behaviour,BT41HT
+2016-03,-6.42105,54.425085,Granville Road,Violence and sexual offences,BT701NJ
+2015-11,-6.335799,54.177929,Trevor Hill,Other theft,BT341DN
+2015-06,-6.629374,54.835508,Beagh Terrace,Violence and sexual offences,BT465EP
+2016-12,-6.395605,54.452054,Balteagh Road,Violence and sexual offences,BT604SB
+2015-03,-6.306445,54.470585,Cottage Road,Burglary,BT358RS
+2015-09,-6.189587,54.718302,Altmore Close,Criminal damage and arson,BT411RD
+2015-07,-5.716803,54.316667,Braeside Avenue,Anti-social behaviour,BT306RY
+2017-04,-5.939137,54.610265,Vicinage Park,Criminal damage and arson,BT146BA
+2017-03,-5.931329,54.636314,Castle Drive,Drugs,BT412EF
+2017-07,-6.800907,54.489198,Granville Terrace,Violence and sexual offences,BT701NR
+2016-03,-5.933906,54.599241,College Court,Shoplifting,BT490UR
+2015-03,-5.89866,54.593099,Trillick Street,Anti-social behaviour,BT54TD
+2015-03,-5.858346,54.617973,Knocknagoney Park,Criminal damage and arson,BT42PU
+2017-04,-6.328591,54.998516,Gleneagles,Anti-social behaviour,BT449PQ
+2015-01,-5.694295,54.650136,Carrickmannin Gardens,Anti-social behaviour,BT191SX
+2015-04,-5.939776,54.607428,Hopewell Avenue,Burglary,BT131ED
+2016-07,-5.920338,54.607976,Pilot Street,Vehicle crime,BT13EZ
+2015-07,-6.008717,54.760973,Victoria Gardens,Anti-social behaviour,BT153LW
+2016-10,-7.322467,54.995762,The Diamond,Violence and sexual offences,BT486PE
+2016-05,-5.928592,54.599366,Corn Market,Anti-social behaviour,BT358BG
+2017-02,-5.948607,54.622026,Knutsford Drive,Anti-social behaviour,BT146LZ
+2015-08,-5.807505,54.59486,Upper Newtownards Road,Anti-social behaviour,BT43NW
+2015-08,-6.300138,54.436319,Oaktree Manor,Other theft,BT667PG
+2016-04,-5.898654,54.583611,Cregagh Road,Shoplifting,BT69EU
+2015-10,-7.237315,54.718528,Culvacullion Road,Criminal damage and arson,BT798QE
+2017-11,-5.544962,54.63754,Ashfield Drive,Violence and sexual offences,BT210AT
+2015-06,-6.011698,54.544973,Laurel Way,Anti-social behaviour,BT179PR
+2016-03,-6.326732,54.469017,Antrim Road,Criminal damage and arson,BT152AH
+2015-08,-5.848407,54.593905,Cabin Hill Gardens,Other theft,BT57AP
+2015-03,-6.09571,54.200563,Bryansford Road,Anti-social behaviour,BT330HJ
+2016-01,-5.931803,54.622395,Skegoneill Drive,Burglary,BT153FY
+2016-07,-6.610359,54.755642,Rainey Street,Other theft,BT455AH
+2016-02,-6.666585,55.197214,Covehill Court,Criminal damage and arson,BT568GL
+2017-05,-6.252044,54.099219,Mary Street,Anti-social behaviour,BT546QH
+2015-02,-5.870634,54.594667,Hewitt Parade,Violence and sexual offences,BT56JT
+2017-03,-7.626324,54.35742,Drumbawn Close,Anti-social behaviour,BT746NU
+2015-10,-5.800383,54.729113,Glynn Park Close,Anti-social behaviour,BT387TR
+2017-01,-5.890692,54.597875,East Bread Street,Anti-social behaviour,BT55AP
+2015-07,-5.870994,54.688801,Oldstone Close,Other theft,BT388YG
+2015-08,-6.226189,54.481895,Demesne Grove,Anti-social behaviour,BT670DS
+2015-09,-5.999143,54.546041,Glenshesk Park,Criminal damage and arson,BT568BQ
+2017-05,-6.015411,54.574495,Creeslough Park,Anti-social behaviour,BT119HJ
+2016-12,-5.866017,54.578789,Castleview Court,Anti-social behaviour,BT797RD
+2017-09,-6.21119,54.619255,Tromery Drive,Anti-social behaviour,BT294PU
+2016-09,-5.805253,54.730064,Dunluskin Gardens,Criminal damage and arson,BT387JD
+2017-09,-5.697255,54.593135,Lower Mary Street,Burglary,BT234JH
+2016-07,-6.369206,54.187613,Wilton Grove,Vehicle crime,BT357EU
+2017-04,-7.306166,54.601351,Castle Street,Anti-social behaviour,BT344BH
+2017-10,-7.308804,54.994392,Cross Street,Criminal damage and arson,BT309QG
+2016-07,-5.923546,54.551946,Castledillon Road,Shoplifting,BT87BH
+2017-07,-6.396615,54.795418,The Moorlands,Anti-social behaviour,BT413RN
+2016-11,-5.841071,54.854296,Fairway,Anti-social behaviour,BT623FR
+2017-12,-5.966337,54.602459,Springfield Road,Anti-social behaviour,BT205BZ
+2015-07,-6.21607,54.596551,Crumlin Road,Public order,BT147EA
+2015-12,-5.932382,54.585657,Botanic Avenue,Criminal damage and arson,BT71JL
+2015-10,-6.362509,54.332842,Glenloughan Park,Anti-social behaviour,BT636LP
+2017-04,-5.801703,54.84827,Coastguard Road,Anti-social behaviour,BT401AU
+2016-10,-5.9333,54.597155,Wellington Place,Violence and sexual offences,BT16GE
+2017-07,-7.354963,55.019348,Aileach Road,Anti-social behaviour,BT480AZ
+2015-11,,,No Location,Violence and sexual offences,
+2016-04,-6.077944,54.508316,Tirowen Drive,Anti-social behaviour,BT281SD
+2016-06,-7.459336,54.818086,Ballycolman Estate,Violence and sexual offences,BT829AJ
+2015-05,-5.899545,54.400184,Dromore Street,Anti-social behaviour,BT68PF
+2017-01,-6.21649,54.617734,Lakeview,Violence and sexual offences,BT234US
+2016-10,-6.598964,54.745575,Ronan Drive,Anti-social behaviour,BT456HD
+2015-04,-5.699532,54.601319,Dicksonia Drive,Vehicle crime,BT234HE
+2015-08,-6.043848,54.507419,Crommelin Place,Violence and sexual offences,BT281YL
+2017-10,-6.334535,54.456537,Ardboe Drive,Criminal damage and arson,BT668HR
+2016-10,-5.929548,54.58754,Lawrence Street,Anti-social behaviour,BT71LE
+2015-04,-6.454885,54.415712,Brownstown Park,Anti-social behaviour,BT623QJ
+2016-01,-6.285974,54.865418,Balmoral Avenue,Anti-social behaviour,BT96NY
+2016-10,-6.272573,54.860808,Edward Street,Shoplifting,BT666DD
+2017-08,-7.308181,54.994263,Bentley Terrace,Criminal damage and arson,BT476BN
+2016-11,-5.706524,54.595063,Church Street,Drugs,BT343HN
+2017-01,-5.925699,54.574077,Annadale Green,Vehicle crime,BT73DQ
+2016-05,-5.869924,54.695611,Carrickfern Close,Violence and sexual offences,BT388FR
+2017-07,-6.337847,54.194445,Shandon Park,Public order,BT341QE
+2016-04,-5.93155,54.602067,North Street,Anti-social behaviour,BT341DB
+2015-06,-6.463366,54.433187,Dungannon Road,Violence and sexual offences,BT714HP
+2016-10,-5.666548,54.664629,Crosby Street,Other theft,BT132HJ
+2017-06,-6.298234,54.427954,Magherana Park,Anti-social behaviour,BT667QF
+2016-08,-6.27238,54.864219,Demesne Avenue,Anti-social behaviour,BT667BL
+2017-03,-5.982751,54.578169,Kennedy Way,Anti-social behaviour,BT119AP
+2015-10,-6.456968,54.410303,Inglewood Lodge,Anti-social behaviour,BT623BT
+2017-08,-6.215475,54.733133,Glencraig Manor,Violence and sexual offences,BT412LE
+2015-12,-5.929975,54.625167,Seagrove Place,Anti-social behaviour,BT153NA
+2015-02,-6.651346,54.522372,Annaghmore Road,Anti-social behaviour,BT458DU
+2017-11,-5.959504,54.63044,Sunningdale Gardens,Anti-social behaviour,BT146SH
+2016-10,-6.333434,54.465417,North Street,Anti-social behaviour,BT341DB
+2017-08,-6.264667,55.196055,Kilcreg Park,Violence and sexual offences,BT546JR
+2016-10,-6.540394,54.615345,Ardboe Business Park,Anti-social behaviour,
+2017-01,-5.854239,54.373006,Cumber Road,Vehicle crime,BT474JA
+2015-12,-5.938709,54.603717,Shankill Terrace,Public order,BT131EN
+2015-07,-7.529295,54.153168,Teemore Road,Vehicle crime,BT929QF
+2016-08,-5.632742,54.667531,East Circular Road,Anti-social behaviour,
+2017-08,-5.93162,54.539631,Ballycoan Road,Violence and sexual offences,BT88LP
+2015-06,-7.354028,55.013343,Springtown Road,Anti-social behaviour,BT480LY
+2017-06,-6.687514,54.270288,Keady Road,Anti-social behaviour,BT603EW
+2016-05,-6.368913,54.091902,Molly Road,Criminal damage and arson,BT341QW
+2017-08,-5.92411,54.658815,Glenmount Road,Criminal damage and arson,BT367QJ
+2016-12,-6.267906,54.353102,Church Street,Other theft,BT343HN
+2015-08,-5.898585,54.597851,Montrose Walk,Anti-social behaviour,BT54JZ
+2017-03,-6.370029,54.439564,Rosmoyle,Criminal damage and arson,BT655HA
+2017-11,-5.932085,54.578994,Sandhurst Drive,Anti-social behaviour,BT95AY
+2015-01,-5.934622,54.595794,Howard Street,Anti-social behaviour,BT132AU
+2017-04,-6.667643,54.531761,Annaghmore Road,Violence and sexual offences,BT458DU
+2017-05,-5.942481,54.687808,Fairview Drive,Violence and sexual offences,BT366PS
+2015-03,-5.934882,54.589437,Donegall Road,Criminal damage and arson,BT126HN
+2015-11,-5.908378,54.591264,Ravenhill Street,Criminal damage and arson,BT68EP
+2017-04,-6.267906,54.353102,Church Street,Anti-social behaviour,BT343HN
+2015-05,-7.980785,54.349382,Lattone Road,Public order,BT934EL
+2017-01,-7.318823,54.996883,Foyle Street,Violence and sexual offences,BT486XY
+2016-12,-5.849398,54.259764,Dromara Road,Violence and sexual offences,BT266PE
+2017-08,-7.307208,54.599228,James Street,Violence and sexual offences,BT487FB
+2015-07,-5.805124,54.715515,Joymount,Violence and sexual offences,BT387DN
+2017-06,-5.919718,54.579159,Ormeau Road,Anti-social behaviour,BT73GA
+2015-09,-5.932362,54.586663,India Street,Other crime,BT71LJ
+2017-12,-5.901707,54.584392,Ravenhill Parade,Vehicle crime,BT68NU
+2015-10,-7.2667,55.035304,Stradowen Drive,Anti-social behaviour,BT476XN
+2015-01,-6.67723,55.130504,Pates Lane,Anti-social behaviour,BT513DE
+2015-12,-7.321353,55.009931,Duncreggan Road,Violence and sexual offences,BT480AA
+2016-11,-6.25409,55.200171,Castle Street,Other theft,BT344BH
+2015-05,-6.411577,54.35808,Coburn Drive,Anti-social behaviour,BT622AJ
+2017-08,-6.001461,54.56502,Brooke Drive,Violence and sexual offences,BT119NJ
+2015-07,-7.32179,54.998831,Sackville Street,Anti-social behaviour,BT487BQ
+2017-11,-5.548114,54.381011,Cuan Place,Criminal damage and arson,BT234PB
+2016-10,-6.15438,54.640235,Dundesert Road,Other theft,BT294SL
+2015-01,-5.926106,54.582198,Carmel Street,Burglary,BT71QE
+2015-09,-6.918208,55.043242,Drummond Manor,Violence and sexual offences,BT490UP
+2015-01,-5.822696,54.849358,Meadow Park,Anti-social behaviour,BT557ST
+2017-04,-7.591841,54.708392,Meetinghouse Lane,Anti-social behaviour,BT817BQ
+2016-11,-5.921465,54.621383,Mineral Street,Anti-social behaviour,BT153JJ
+2015-05,-6.059457,54.499638,Avonmore Park,Other theft,BT281NE
+2015-02,-6.040103,54.556272,White Glen,Anti-social behaviour,BT170XN
+2015-11,-5.905671,54.595773,Clandeboye Drive,Criminal damage and arson,BT54PF
+2017-03,-6.333109,54.460516,Coronation Street,Violence and sexual offences,BT623BA
+2016-07,-6.179848,54.720915,Kent Court,Vehicle crime,BT412TF
+2017-07,-5.912498,54.566383,Drumkeen Manor,Shoplifting,BT87AZ
+2016-02,-5.99491,54.750808,Ballynure Road,Other theft,BT399AJ
+2017-01,-5.891737,54.598019,Connswater Street,Violence and sexual offences,BT41HT
+2015-10,-5.658165,54.636845,Arleigh Court,Criminal damage and arson,BT197YT
+2016-02,-5.930334,54.599189,Castle Street,Anti-social behaviour,BT344BH
+2015-12,-6.186347,54.710941,Donore Crescent,Violence and sexual offences,BT411JA
+2017-06,-5.886211,54.590277,Glenhoy Drive,Drugs,BT55LB
+2015-01,-6.655962,55.126993,Lodge Park,Anti-social behaviour,BT388YB
+2017-12,-5.915143,54.596349,Laganbank Road,Drugs,BT13LT
+2016-12,-6.020527,54.572962,Garvey Glen,Criminal damage and arson,BT119RJ
+2015-08,-6.479025,54.111881,Mullanstown,Anti-social behaviour,BT359EX
+2015-03,-6.890717,55.051331,Ringsend Road,Other theft,BT490QJ
+2015-05,-5.906157,54.573651,Flush Park,Anti-social behaviour,BT60GE
+2016-03,-5.932157,54.590702,Salisbury Court,Other theft,BT71DD
+2016-06,-6.055045,54.506387,Manor Park,Anti-social behaviour,BT203LY
+2016-07,-5.817199,54.724467,Sunningdale Crescent,Anti-social behaviour,BT388LD
+2017-08,-5.934694,54.599272,Divis Street,Criminal damage and arson,BT124JP
+2015-03,-5.938106,54.578908,Lennoxvale,Criminal damage and arson,BT95BY
+2017-02,-6.678158,55.129445,Winston Way,Anti-social behaviour,BT513DG
+2017-05,-6.346915,54.174946,John Martin Gardens,Anti-social behaviour,BT358DZ
+2016-09,-5.933077,54.578337,Stranmillis Street,Anti-social behaviour,BT95FE
+2015-10,-6.512634,55.07281,Trinity Drive,Criminal damage and arson,BT536EQ
+2015-04,-6.66007,55.193872,Glenaan Drive,Anti-social behaviour,BT568BZ
+2015-01,-5.92346,54.586483,Ormeau Road,Other theft,BT73GA
+2017-03,-6.03437,54.529557,Moss Road,Drugs,BT222DS
+2017-11,-6.077247,54.521513,Rathvarna Avenue,Public order,BT282UZ
+2016-08,-5.894172,54.631172,West Bank Close,Other theft,BT39LD
+2015-03,-5.865101,54.598666,Belmont Church Road,Criminal damage and arson,BT43FF
+2017-06,-5.936493,54.607453,Carlisle Circus,Drugs,BT146AT
+2017-03,-6.942648,55.052574,Crawford Square,Anti-social behaviour,BT487HT
+2015-11,-6.061781,54.507609,Dundrod Walk,Anti-social behaviour,BT281PU
+2017-07,-5.804206,54.34213,Loughinisland Road,Anti-social behaviour,BT308QZ
+2015-05,-6.274848,54.871001,Devenagh Court,Violence and sexual offences,BT436EF
+2016-12,-5.930979,54.60416,Union Street,Other theft,BT536HT
+2015-05,-5.782596,54.728735,Cesnor Park,Violence and sexual offences,BT387PF
+2016-06,-6.370052,54.885514,Queens Park,Burglary,BT365HT
+2016-01,-6.949792,55.052825,Main Street,Burglary,BT936HW
+2016-08,-7.298004,54.980254,Ashcroft,Violence and sexual offences,BT282AY
+2015-04,-5.953784,54.616974,Oldpark Road,Criminal damage and arson,BT146QS
+2017-08,-5.759535,54.287474,Vianstown Road,Criminal damage and arson,BT308AB
+2017-11,-6.343576,54.151207,Flagstaff Road,Anti-social behaviour,BT358NR
+2016-11,-6.279436,54.865694,George Street,Criminal damage and arson,BT666BL
+2016-05,-5.801894,54.59474,Upper Newtownards Road,Other theft,BT43NW
+2017-09,-6.391973,54.443614,Parkmore,Shoplifting,BT642AQ
+2016-06,-5.920489,54.587699,Shaftesbury Avenue,Anti-social behaviour,BT72ES
+2016-09,-5.932438,54.578434,Stranmillis Street,Anti-social behaviour,BT95FE
+2017-04,-5.711151,54.316048,Glebetown Drive,Anti-social behaviour,BT306QB
+2017-09,-7.594185,54.709856,Kilclean Road,Anti-social behaviour,BT817LD
+2016-07,-5.934292,54.600173,Berry Street,Anti-social behaviour,BT11FJ
+2015-04,-6.745148,54.646838,Burn Road,Vehicle crime,BT97GY
